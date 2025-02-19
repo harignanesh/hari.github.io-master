@@ -1,0 +1,67 @@
+Hari S G 
+Chennai,TamilNadu 
+7401522509
+harignanesh18@gmail.com
+
+Resource Links
+GitHub | LeetCode | LinkedIn
+
+Experience
+Lead Software Engineer 
+Virtusa , [ Client : BNY Mellon ]                   12/2022 - Present
+TN 
+Spearheaded the migration of legacy MVC applications to Angular-based applications, significantly enhancing system performance, scalability, and maintainability.
+Actively participated in design reviews, identifying and addressing design flaws to ensure adaptability and scalability for future requirements.
+Troubleshot and debugged complex software issues, ensuring timely resolutions to minimize downtime and maintain system reliability.
+Managed project timelines and deliverables, ensuring alignment with business objectives and maintaining clear communication with stakeholders.
+Conducted code reviews, promoting best practices and contributing to the continuous improvement of the codebase.
+Led the resolution of critical bugs and spearheaded the development of new features, delivering high-quality solutions under tight deadlines.
+Improved overall system performance through detailed analysis and optimization of database queries and API calls, resulting in faster API response times and more efficient user interactions.
+Senior Software Engineer 
+Happiest Minds [ Client : Honey well ]                   01/2021 - 11/2022
+, KA
+Designed and implemented web applications using ASP.NET MVC and Web API, delivering scalable and maintainable solutions.
+Developed a Localization Tool leveraging .NET Core 3.1, improving application usability across multiple regions.
+Led the migration of applications from .NET Framework to .NET Core, ensuring improved performance and compatibility.
+Oversaw the full lifecycle of application development, including design, coding, testing, and deployment.
+Enhanced application performance by identifying bottlenecks and implementing efficient solutions.
+Designed and maintained database components, including tables, stored procedures, triggers, and functions, ensuring data integrity and optimized performance.
+Applied rigorous unit testing for all implementations, ensuring high-quality, error-free code.
+Software Developer 
+ProKarma                   03/2018 - 01/2021
+, KA
+Conducted a complete refactoring of the existing codebase, optimizing performance and improving maintainability across the application.
+Collaborated closely with stakeholders to identify and implement new features based on detailed client requirements, enhancing project functionality and usability.
+Integrated various client-side features to improve responsiveness and user interaction, ensuring a seamless experience.
+Designed and developed solutions using MVC, C#, ASP.NET, SQL Server, and AngularJS, enabling full-stack functionality tailored to the construction industry.
+Streamlined database queries and optimized data storage solutions within SQL Server, resulting in faster application response times.
+Applied best practices for software development, including thorough documentation, version control, and code reviews.
+Associate Consultant 
+Logic                   06/2016 - 03/2018
+Chennai 
+ 
+
+Technical Skills
+Programming Languages: C#, Python,TypeScript, JavaScript.
+Web Development: REST APIs, .Net Core, .Net MVC, ASP.NET,Angular16.
+Database Systems: MySQL,Oracle.
+Cloud Platforms: AWS, Azure, Kafka.
+Software Practices & Principles: Algorithms, Design Patterns, Object-Oriented Programming, Microservices, SDLC.
+Tools & Methodologies: Git, Jira, Confluence, Scrum, Agile methodologies, Jenkins,Continuous Integration and Deployment,Unit test, Integration test, Test automation, Shell Scripting, Version Control.
+
+Education
+Alagappa University                   MBA (Computer System Administration) | CGPA: 8.5 
+04/2021
+Chennai
+Sri Ram College Of Engineering                   B E (Computer Science) | GPA: 7.6 
+03/2016
+Chennai
+
+Awards & Certifications
+Client Excellence Award – Recognized by Happiest Minds for outstanding client service and delivery.  
+Best Performance Award – Awarded by Happiest Minds for exceptional contributions to the Localization Tool project.  
+High Flyer Award – Honored by Virtusa for exemplary performance and significant project achievements.  
+Certifications :
+Certified in Python Programming – January 2022  
+Certified in .NET Core – March 2021  
+Neural Networks in AI Certification – April 2021
